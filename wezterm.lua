@@ -8,6 +8,6 @@ config.initial_rows = 28
 config.font_size = 10
 config.color_scheme = 'Catppuccin Frappe'
 
-config.font = wezterm.font 'BlexMono Nerd Font'
+config.font = wezterm.font 'JetBrainsMono Nerd Font'
 
 return config
