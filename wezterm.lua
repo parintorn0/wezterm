@@ -8,6 +8,8 @@ config.initial_rows = 28
 config.font_size = 10
 config.color_scheme = 'Catppuccin Frappe'
 
-config.font = wezterm.font 'JetBrainsMono Nerd Font'
+config.font = wezterm.font 'Maple Mono NF'
+
+config.enable_wayland = false
 
 return config
